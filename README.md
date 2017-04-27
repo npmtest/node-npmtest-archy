@@ -1,6 +1,6 @@
 # npmtest-archy
 
-#### test coverage for  [archy (v1.0.0)](https://github.com/substack/node-archy)  [![npm package](https://img.shields.io/npm/v/npmtest-archy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-archy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-archy.svg)](https://travis-ci.org/npmtest/node-npmtest-archy)
+#### basic test coverage for  [archy (v1.0.0)](https://github.com/substack/node-archy)  [![npm package](https://img.shields.io/npm/v/npmtest-archy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-archy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-archy.svg)](https://travis-ci.org/npmtest/node-npmtest-archy)
 
 #### render nested hierarchies `npm ls` style with unicode pipes
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-archy/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-archy/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-archy/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-archy/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-archy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-archy/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-archy/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-archy/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-archy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-archy/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-archy/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-archy/build/coverage.html/index.html)
 
@@ -102,7 +102,8 @@
             ]
         }
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
